@@ -1,11 +1,11 @@
 import React from 'react'
 import './App.css'
-import Noble from './component/Noble'
-import Car from './component/Car'
-import Welcome from './component/Welcome'
-import Slide from './component/Slide'
-import Contact from './component/Contact'
-import Footer from './component/Footer'
+import Noble from './Noble'
+import Car from './Car'
+import Welcome from './Welcome'
+import Slide from './Slide'
+import Contact from './Contact'
+import Footer from './Footer'
 
 
 function App() {
